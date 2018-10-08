@@ -1,0 +1,22 @@
+
+
+.disFlexHori{
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+  
+     margin-bottom: 2%;
+}
+
+.img{
+    height: auto;
+    width: 75%;
+}
+video {
+    width: 100%;
+    height: auto;
+}
+
+.vid{
+    width: 300px;
+}

@@ -1,0 +1,9 @@
+.borImg{
+    border: 2px solid red;
+    width: 73%;
+    height: auto;
+    margin: 2%;
+}
+.txr{
+        font-size: 1.5vw;
+}

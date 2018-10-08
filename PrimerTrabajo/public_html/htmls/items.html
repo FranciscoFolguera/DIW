@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+        <link href="../css/principal.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/items.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+
+        <div>
+            <nav>
+                <div class="nav-wrapper blue lighten-1">
+                    <a href="#!" class="brand-logo ">DIW</a>
+                    <ul class="right hide-on-med-and-down">
+                        <li><a href="../index.html"><i class="material-icons right">home</i>Home</a></li>
+                        <li><a class="dropdown-button" href="#!" data-activates="dropdown1"><i class="material-icons right">menu</i>Trabajos<i class="material-icons right">arrow_drop_down</i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <ul id="dropdown1" class="dropdown-content">
+            <li class="divider"></li>
+            <li><a href="1editor.html"><i class="material-icons right">photo_filter</i>Editor de imágenes</a></li>
+            <li><a href="items.html"><i class="material-icons right">burst_mode</i>Imagen, vídeo y audio</a></li>
+
+        </ul>
+
+        <div class="disFlexHori">
+
+            <div class="">
+                <img src="../images/leon.jpg" alt="" class="img"/>
+            </div>
+
+
+
+            <div class="">
+                <video class="img" controls>
+                    <source src="../vid/video1.mp4" type="video/mp4">
+                    <source  src="../vid/video1.ogg" type="video/ogg">
+                    Your browser does not support HTML5 video.
+                </video>  
+            </div>
+      
+        </div>
+
+
+
+        <audio controls>
+            <source src="../vid/video1.ogg"  type="audio/ogg">
+            <source src="../audio/video1.mpg" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+
+
+    </body>
+</html>

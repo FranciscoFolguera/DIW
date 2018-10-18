@@ -1,0 +1,21 @@
+body{
+    background-color: #FFF8DC;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+
+}
+.headImg{
+    width: 180px;
+    height: 120px;
+   
+}
+
+.educa{
+    align-self: stretch;
+}
+.headItems{
+    margin-right: auto;
+}

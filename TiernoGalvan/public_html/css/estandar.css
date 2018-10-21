@@ -1,11 +1,22 @@
 body{
-    background-color: #FFF8DC;
+    background-color: #E8F8F5;
+    padding-left: 6%;
+    padding-right: 6%;
 }
 
 header{
     display: flex;
     flex-direction: row;
-
+}
+.txtHeader{
+     font-size: 80px;
+    color: #AED6F1;
+   
+    
+}
+.fondoImagen{
+    
+    background-image: url(../images/libreria.jpg);
 }
 .headImg{
     width: 180px;
@@ -18,4 +29,13 @@ header{
 }
 .headItems{
     margin-right: auto;
+}
+
+footer{
+    background-color: cadetblue;
+    height: 90px;
+    margin-top: 2%;
+}
+.page{
+    background-color: white;
 }

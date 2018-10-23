@@ -1,0 +1,68 @@
+Smartphones y tablets:
+	- Dispositivos:
+		* Moviles 
+		* Tablets
+	- Accesorios: 
+		* Carcasas
+		* Pantallas
+		* Tarjetas prepagos
+
+PCs y Portatiles:
+	- Equipos:
+		* Portatiles
+		* Ordenadores de sobre mesa
+		
+	- Periféricos:
+		* Teclado
+		* Pantallas
+		* Ratones
+		* Altavoces
+		* Micrófonos		
+		* Webcams
+	- Hardware:
+		* Tarjetas gráficas
+		* Memoria RAM
+		* Placa base
+		* HD
+		* SSD
+		* Ventiladores
+		* Refrigeración liquida
+		
+	- Software:
+		* Antivirus
+		* Programas
+	- Complementos:
+		* Micro USB
+		* Fuentes de alimentación
+		* Impresoras
+		* Scanners
+		* Cables
+		* Conectores RJ
+
+
+
+
+Consolas:
+	- Videojuegos
+	- Consolas
+	- Complementos:
+		* Gafas virtuales
+		* Capturadora de video
+
+Televisores:
+	
+	- Smart TV
+	- Complementos
+		* DVD's
+		* Cables HDMI
+		* Grabador de blue ray
+		* Decodificadores
+
+Complemntos:
+	- Pulsometros
+	- GPS
+	- Cascos
+	- Smart watches
+	- Proyectores
+	- Cartuchos impresora 
+	

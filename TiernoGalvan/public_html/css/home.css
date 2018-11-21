@@ -41,8 +41,9 @@
 }
 .imgCaja{
     padding: 1%;
-     width: 100%;
+     width: 50%;
     height: auto;
+    margin: auto;
     
 }
 
@@ -138,4 +139,7 @@
 .footer{ 
   
   
+}
+.txtCenter{
+    text-align: center;
 }

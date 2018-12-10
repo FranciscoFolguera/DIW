@@ -3,26 +3,28 @@ body{
     
 }
 
-header{
-    display: flex;
-    flex-direction: row;
+
+
+.fondoImagen{
+    background-image: url(../images/pizarra.png);
 }
+
 .txtHeader{
-     font-size: 4.8vw;
+    font-size: 4.8vw;
     color: #AED6F1;
     margin: auto;
     text-align: center;
    
 }
-
-.fondoImagen{
-    
-    background-image: url(../images/pizarra.png);
-}
 .headImg{
     width: 10%;
     height: auto;
-   
+}
+
+.init{
+    margin-right: 2%;
+    border: 1px solid black;
+    background-color: #ECEFF1;
 }
 .header{
     display: table;
@@ -43,7 +45,7 @@ header{
 .page{
     background-color: white;
 }
-.tresimagenes{
+.tresImagenes{
     display: block;
     margin-left: auto;
     margin-right: auto;

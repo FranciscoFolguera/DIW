@@ -1,0 +1,25 @@
+.img{
+    height: 350px;
+    width: 450px;
+    margin: 1%;
+    margin-right: 3%;
+}
+video {
+    height: 350px;
+    width: 450px;
+}
+
+
+
+
+.caja{
+   display: table;
+    margin: 4%;
+}
+.borImg{
+    border: 2px solid red;
+    width: 80%;
+    height: auto;
+    margin: 2%;
+}
+
